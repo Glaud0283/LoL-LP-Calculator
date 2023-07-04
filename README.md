@@ -3,7 +3,7 @@
 ### Disclamer
 ###### This project is **not any kind of official program provided by Riot Games**, it is a basic tool for only and only LP calculations. It does not have any background process, when you close the window it is totally terminated. **It is not  any kind of script or illegal program that gives competitive advantage.** Basically it does not have any affect to the game. 
 ###### The data given are approximate values calculated by simple math, not by using Riot's MMR system. So do not expect precise values.
-###### It is only a project so it is not my problem your issues. Don't be a dick.
+###### **It is only a project so any of your issues are not my problem.** Don't be a dick.
 
 ### Why?
 ###### In competitive games like League of Legends, everyone tried to calculate how many wins they need to reach their dream rank, at least once. But it is not as easy as pie if you need a detailed result. This program calculates your Net LP gain and number of matches you need by collecting your account stats and basic algebra.
