@@ -17,7 +17,7 @@
 
 
 # Structure
-This project contains 2 main parts:
+###### This project contains 2 main parts:
 
 ### LoL Calculations
 ###### This part of program calculates the necessary and final data for calculations and returns a `dictionary` object.
